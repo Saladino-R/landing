@@ -1,0 +1,11 @@
+.container-title {
+color: white;
+}
+
+.container-title > p {
+  color: white;
+}
+
+.container {
+  text-align: center;
+}
